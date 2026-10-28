@@ -1,5 +1,7 @@
 # Grafo delle notizie di giustizia di Ottorighe
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23736840.svg)](https://doi.org/10.5281/zenodo.23736840)
+
 Rete di persone, enti, fonti, categorie e articoli dell'archivio di [Ottorighe](https://www.ottorighe.it/), con i collegamenti tra loro: chi compare in quale articolo, da quali testate arriva la notizia, quali articoli sono correlati. Si esplora dal browser nella [mappa delle notizie](https://www.ottorighe.it/mappa-notizie/) e si legge in forma di testo nell'[indice dei collegamenti](https://www.ottorighe.it/mappa-notizie/indice/).
 
 > **In breve.** 1.317 nodi e 7.311 collegamenti (copia del 28/10/2026): 898 articoli pubblicati dal 6 aprile al 27 ottobre 2026, 23 schede di persone ed enti, 387 fonti, 9 categorie. Quattro file pronti per un foglio di calcolo, per Gephi o per i dati collegati.
@@ -60,7 +62,9 @@ Dati e testi: [Creative Commons Attribuzione 4.0](LICENSE) (CC BY 4.0), con indi
 
 ## Come citare
 
-Ottorighe (2026). *Grafo delle notizie di giustizia di Ottorighe*. Versione 2026.10. [https://www.ottorighe.it/mappa-notizie/](https://www.ottorighe.it/mappa-notizie/)
+Ottorighe (2026). *Grafo delle notizie di giustizia di Ottorighe*. Versione 2026.10. Zenodo. [https://doi.org/10.5281/zenodo.23736840](https://doi.org/10.5281/zenodo.23736840)
+
+Il DOI indicato è quello di concetto e rimanda sempre all'ultima versione; ogni versione ha anche un DOI proprio, elencato nella pagina di Zenodo (la 2026.10 è `10.5281/zenodo.23736841`).
 
 GitHub ricava la citazione anche da [`CITATION.cff`](CITATION.cff).
 
