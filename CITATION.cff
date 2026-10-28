@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se usi questi dati, citali come segue."
+title: "Grafo delle notizie di giustizia di Ottorighe"
+type: dataset
+authors:
+  - name: "Ottorighe"
+    website: "https://www.ottorighe.it/"
+    email: "redazione@ottorighe.it"
+abstract: "Rete di persone, enti, fonti, categorie e articoli dell'archivio di notizie di giustizia di Ottorighe, con i collegamenti tra loro (chi compare in quale articolo, da quali testate arriva la notizia, articoli correlati). File CSV, GraphML e JSON-LD."
+keywords:
+  - giustizia
+  - notizie
+  - grafo della conoscenza
+  - dati aperti
+  - Italia
+license: CC-BY-4.0
+url: "https://www.ottorighe.it/mappa-notizie/"
+version: "2026.10"
+date-released: 2026-10-28
+repository-code: "https://github.com/Ottorighe/grafo-notizie"
