@@ -17,4 +17,5 @@ license: CC-BY-4.0
 url: "https://www.ottorighe.it/mappa-notizie/"
 version: "2026.10"
 date-released: 2026-10-28
+doi: 10.5281/zenodo.23736840
 repository-code: "https://github.com/Ottorighe/grafo-notizie"
